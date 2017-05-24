@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+header#cabeceraweb {
+	background-color: blue;
+}
+
+nav#navegacionprincipal {
+	background-color: red;
+}
+
+aside#barralateral {
+	background-color: green;
+	float: left;
+	height: 1450px;
+}
+
+section#contenidoprincipal {
+	background-color: purple;
+	margin-left: 200px;
+	padding-top: 15px;
+	padding-left: 15px;
+}
+
+footer#pieprincipal {
+	background-color: yellow;
+	clear: both;
+	margin-top: 50px;
+}
+
+li {
+	background-color: yellow;
+	display: inline;
+}
